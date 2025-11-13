@@ -97,10 +97,6 @@ with col2:
 
 st.divider()
 
-# ------------------------------------------------------------
-# Explanation Section (Links to Your Report)
-# ------------------------------------------------------------
-st.header("📘 How These Predictions Relate to the Report")
 
 st.markdown("""
 ### 🌱 Sustainability  
